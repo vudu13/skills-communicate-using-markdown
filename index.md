@@ -7,4 +7,13 @@
 
 Added examples of headers
 
+Added an image!
 ![Image of a sand garden](https://images.pexels.com/photos/13572878/pexels-photo-13572878.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+
+Activity: Adding a code example
+
+``` bash
+#!/bin/bash
+echo "Hello, world!"
+
+```
