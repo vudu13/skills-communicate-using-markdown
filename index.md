@@ -6,3 +6,5 @@
 ###### This is h6
 
 Added examples of headers
+
+![Image of a sand garden](https://images.pexels.com/photos/13572878/pexels-photo-13572878.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
